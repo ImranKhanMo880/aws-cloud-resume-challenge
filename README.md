@@ -5,6 +5,8 @@ The Cloud Resume Challenge is a hands-on project designed to demonstrate cloud c
 
 [Check out my live website here!](https://muhammad-cloud-resume-challenge.com/)
 
+[Read my blog post about the Cloud Resume Challenge](https://dev.to/imran_khan_4d9e8007ad80af/cloud-resume-challenge-gak)
+
 
 ## Architecture
 
